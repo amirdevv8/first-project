@@ -21,6 +21,7 @@ menuBtn.addEventListener("click", (e) => {
   }
 });
 
+
 menu.addEventListener("click", (e) => {
   e.stopPropagation();
 });
